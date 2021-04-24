@@ -1,1 +1,2 @@
 # basic_knowledge_python
+记录python学习过程中遇到的一些问题
